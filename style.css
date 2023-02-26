@@ -5,6 +5,7 @@ body{
     justify-content: center;
     flex-direction: column;
     overflow:hidden;
+    background-color:#d6e1f0;
     }
 
 main{
@@ -26,17 +27,17 @@ main{
 .qrtext{
     text-align:center;
     margin:15px;
-    font-size:15px;
     font-family: "outline", sans-serif;
-
 }
 
 .qrtext > h1 {
     font-weight: 700;
+    font-size:15px;
 }
 
 .qrtext > p {
     font-weight: 400;
     margin-top:10px;
+    font-size:15px;
 }
 
